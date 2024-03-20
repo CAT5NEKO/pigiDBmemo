@@ -1,5 +1,8 @@
 # ﾋﾟｷﾞﾓﾝｺﾞDBMemo
 
+![image](https://github.com/CAT5NEKO/pigiDBmemo/assets/111590457/ddd8d129-b404-4581-9cec-1644d840cc5a)
+
+
 僕のお友達が作った[オリジナルデータベース](https://github.com/ikasoba/pigimongo-db)を使って(恐らく)誰よりも早くツールを作ってみました。
 
 メモツールです。メモなのに現段階では覚えてないと参照できない（苦笑）
